@@ -1,9 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Vue Lara Craft</title>
+    <title>Welcome to VueLaraCraft</title>
 </head>
 <body>
-<h1>Welcome to VueLaraCraft</h1>
+<h1>Hello Welcome</h1>
+<div id="app">
+    <example-component></example-component>
+</div>
+
+<script src="{{ mix('js/app.js') }}"></script>
 </body>
 </html>
