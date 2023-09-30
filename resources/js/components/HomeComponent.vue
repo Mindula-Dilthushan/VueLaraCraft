@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Welcome to VueLaraCraft</h1>
+        <h1>Welcome to Home VueLaraCraft</h1>
     </div>
 </template>
 
